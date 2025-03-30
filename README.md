@@ -42,8 +42,5 @@ Edit the `RSS_FEED_URLS` list in `topnews.py` to customize your news sources. Th
 - `xml.etree.ElementTree` (standard library)
 - `time` (standard library)
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
 
----
-🔗 **Author:** [Your Name](https://github.com/yourusername)
+
